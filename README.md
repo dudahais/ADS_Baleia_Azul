@@ -1,2 +1,2 @@
-# ADS_Baleia_Azul
-Primeiro projeto de Responsive Web Development
+# Baleia Azul
+Análise e Desenvolvimento de Sistemas - Primeiro projeto de Responsive Web Development ✨
